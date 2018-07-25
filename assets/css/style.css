@@ -1,0 +1,19 @@
+body {
+    background-image: url("../images/left.png");
+    background-size: cover;
+    opacity: 0.85;
+}
+
+.gems {
+    outline: 0;
+    box-shadow: none!important;
+    width: 100px;
+    height: 100px;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+.jumbotron {
+    margin-top: 40px;
+    padding-bottom: 30px;
+}
